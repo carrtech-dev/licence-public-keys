@@ -1,5 +1,5 @@
 {
-  "current": "2026-05-03-bootstrap",
+  "current": "20260503T112626Z",
   "keys": [
     {
       "id": "2026-05-03-bootstrap",
@@ -7,6 +7,13 @@
       "sha256Spki": "73c02ef745f7496e107fcbad4afc099e4f71ba14a0edb3837926a8810e49e585",
       "status": "active",
       "createdAt": "2026-05-03T00:00:00Z"
+    },
+    {
+      "id": "20260503T112626Z",
+      "path": "ct-ops/keys/20260503T112626Z.pem",
+      "sha256Spki": "9249ef3c46539497cb548503381246424a433eff82ba5a9e56555074a0743b1a",
+      "status": "active",
+      "createdAt": "2026-05-03T11:26:28Z"
     }
   ]
 }
