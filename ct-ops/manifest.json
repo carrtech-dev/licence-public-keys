@@ -1,0 +1,12 @@
+{
+  "current": "2026-05-03-bootstrap",
+  "keys": [
+    {
+      "id": "2026-05-03-bootstrap",
+      "path": "ct-ops/keys/2026-05-03-bootstrap.pem",
+      "sha256Spki": "73c02ef745f7496e107fcbad4afc099e4f71ba14a0edb3837926a8810e49e585",
+      "status": "active",
+      "createdAt": "2026-05-03T00:00:00Z"
+    }
+  ]
+}
